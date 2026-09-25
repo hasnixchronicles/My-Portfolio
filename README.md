@@ -16,6 +16,7 @@ Other video that I had worked on are uploaded as my portfolio.
 
 ## Software
 - Adobe Premiere Pro
+- Capcut
 
 ## Video
 My Youtube Channel Link:
