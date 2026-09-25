@@ -1,7 +1,12 @@
-# The Fall of Constantinople
+# Hasnain Ali, Video Editor
 
-A cinematic historical documentary about the Ottoman conquest
-of Constantinople in 1453.
+Following work done by me:
+A cinematic historical documentary about "the Ottoman conquest
+of Constantinople in 1453"
+Historical documentary on "The Lost City of Pompeii 79AD"
+The Famous Cricket and Political Legend "Imran Khan"
+
+Other video that I had worked on are uploaded as my portfolio.
 
 ## My Role
 - Video Editing
@@ -13,4 +18,5 @@ of Constantinople in 1453.
 - Adobe Premiere Pro
 
 ## Video
+My Youtube Channel Link:
 https://youtu.be/URVh4ex970Q?si=9oAheVGe8prYxAQB
