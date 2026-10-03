@@ -6,7 +6,7 @@ of Constantinople in 1453"
 Historical documentary on "The Lost City of Pompeii 79AD"
 The Famous Cricket and Political Legend "Imran Khan"
 
-Other video that I had worked on are uploaded as my portfolio.
+I'm currently working with "Xenon Digital" as team leader of video editing. I train new interns.Other video that I had worked on are uploaded as my portfolio.
 
 ## My Role
 - Video Editing
